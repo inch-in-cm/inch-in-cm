@@ -9,13 +9,13 @@ Willkommen! Dies ist der **Inch-in-cm Converter**, ein kostenloses Online-Tool, 
        style="max-width:100%; height:auto;" />
 </a>
 ---
-<img src="https://github.com/inch-in-cm/inch-in-cm/raw/main/inch%20in%20cm.png" alt="Inch in cm" />
+
 ## Warum Inch-in-cm wichtig ist
 
 Inch ist ein weit verbreitetes Maßsystem in vielen Ländern, während Zentimeter Teil des metrischen Systems ist. Der **Inch-in-cm Converter** hilft Ihnen, die Umrechnung mühelos durchzuführen – z. B. beim Möbelkauf, bei Bildschirmgrößen oder bei internationalen Bekleidunggrößen.
 
 ---
-
+<img src="https://github.com/inch-in-cm/inch-in-cm/raw/main/inch%20in%20cm.png" alt="Inch in cm" />
 ## Funktionen des Inch-in-cm Converters
 
 - Schnelle Umrechnung von **Inch in cm**
