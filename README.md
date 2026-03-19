@@ -1,26 +1,11 @@
-# 📏 Inch in cm Converter
+# Inch in cm Converter
 
-Welcome to the **Inch to Centimeter Converter**!  
-Quickly convert inches (Zoll) to centimeters (cm) online.
+Welcome! This is a **free online converter** to quickly convert **Inch (Zoll) to Centimeter (cm)** and other units like volume, weight, area, and temperature.
 
----
+Use it directly here:
 
-## 🔹 Open the Converter
-[🚀 Go to Converter](https://sahltariq.github.io/inch-in-cm/)
+[➡️ Go to Inch in cm Converter](https://www.inch-in-cm-umrechner.de)
 
 ---
 
-## 📐 Features
-- Convert whole numbers, fractions, and mixed numbers  
-- Instant results in centimeters  
-- Supports other conversions: Weight, Volume, Temperature, Area, Time  
-
----
-
-## 🔗 Links
-- **Live Tool:** [inch-in-cm](https://sahltariq.github.io/inch-in-cm/)  
-- **Source Code:** [GitHub Repo](https://github.com/inch-in-cm/inch-in-cm)  
-
----
-
-> This README will appear directly on my GitHub profile and serve as a landing page for the converter project.
+Fast, simple, and precise — ideal for everyday use, school, or work.
