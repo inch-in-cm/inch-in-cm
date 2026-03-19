@@ -2,7 +2,7 @@
 
 Willkommen! Dies ist der **Inch-in-cm Converter**, ein kostenloses Online-Tool, mit dem Sie **Inch (Zoll) in Zentimeter (cm) schnell und präzise umrechnen** können. Zusätzlich unterstützt das Tool auch andere Maßeinheiten wie Volumen, Gewicht, Fläche und Temperatur. Ideal für den Alltag, Schule oder Beruf.
 
-[➡️ Zum Inch-in-cm Converter](https://www.inch-in-cm-umrechner.de)
+[➡️ Zum Inch-in-cm Converter](https://inch-in-cm-umrechner.de)
 
 ---
 
