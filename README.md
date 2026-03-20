@@ -19,7 +19,7 @@ Inch ist ein weit verbreitetes Maßsystem in vielen Ländern, während Zentimete
   <a href="https://inch-in-cm-umrechner.de/" target="_blank">
     <img src="inch-in-cm.png" 
          alt="Inch in CM Umrechner" 
-         
+         width="600"
          style="border: 10px solid #000; box-shadow: 0px 4px 15px rgba(0,0,0,0.3); border-radius: 8px;">
   </a>
 </div>
