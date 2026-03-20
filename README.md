@@ -15,9 +15,14 @@ Willkommen! Dies ist der **Inch-in-cm Rechner**, ein kostenloses Online-Tool, mi
 Inch ist ein weit verbreitetes Maßsystem in vielen Ländern, während Zentimeter Teil des metrischen Systems ist. Der **Inch-in-cm Converter** hilft Ihnen, die Umrechnung mühelos durchzuführen – z. B. beim Möbelkauf, bei Bildschirmgrößen oder bei internationalen Bekleidunggrößen.
 
 ---
-<a href="https://inch-in-cm-umrechner.de/" target="_blank">
-  <img src="inch-in-cm.png" alt="Inch in CM Rechner" width="600">
-</a>
+<div style="text-align: center;">
+  <a href="https://inch-in-cm-umrechner.de/" target="_blank">
+    <img src="inch-in-cm.png" 
+         alt="Inch in CM Umrechner" 
+         width="600"
+         style="border: 10px solid #000; box-shadow: 0px 4px 15px rgba(0,0,0,0.3); border-radius: 8px;">
+  </a>
+</div>
 
 ## Funktionen des Inch-in-cm Umrechner
 
