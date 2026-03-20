@@ -15,7 +15,10 @@ Willkommen! Dies ist der **Inch-in-cm Rechner**, ein kostenloses Online-Tool, mi
 Inch ist ein weit verbreitetes Maßsystem in vielen Ländern, während Zentimeter Teil des metrischen Systems ist. Der **Inch-in-cm Converter** hilft Ihnen, die Umrechnung mühelos durchzuführen – z. B. beim Möbelkauf, bei Bildschirmgrößen oder bei internationalen Bekleidunggrößen.
 
 ---
-<img src="https://github.com/inch-in-cm/inch-in-cm/raw/main/inch%20in%20cm.png" alt="Inch in cm" />
+<a href="https://inch-in-cm-umrechner.de/" target="_blank">
+  <img src="inch-in-cm.png" alt="Inch in CM Rechner" width="600">
+</a>
+
 ## Funktionen des Inch-in-cm Umrechner
 
 - Schnelle Umrechnung von **Inch in cm**
@@ -24,7 +27,7 @@ Inch ist ein weit verbreitetes Maßsystem in vielen Ländern, während Zentimete
 - Einfach zu bedienen und präzise Ergebnisse in Sekunden
 
 ---
-
+<a href="https://inch-in-cm-umrechner.de/" target="_blank"><img src="https://github.com/inch-in-cm/inch-in-cm/raw/main/inch%20in%20cm.png" alt="Inch in cm" /></a>
 ## So funktioniert der Inch-in-cm Umrechner
 
 1 Inch entspricht 2,54 cm. Geben Sie einfach den Wert in Inch ein, und der **Inch-in-cm Umrechner** liefert sofort das Ergebnis in Zentimeter. Für die Umrechnung in die andere Richtung teilen Sie cm durch 2,54.
