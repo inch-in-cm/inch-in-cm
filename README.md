@@ -44,14 +44,27 @@ Inch ist ein weit verbreitetes Maßsystem in vielen Ländern, während Zentimete
          style="border:10px solid black; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
   </a>
 </p>
-## Anwendungsbeispiele
+<h2>Universeller Rechner</h2>
 
+<a href="https://inch-in-cm-umrechner.de/" target="_blank">
+  <img src="inch-in-cm-universellar-rechner.png" 
+       alt="inch-in-cm-universellar-rechner" 
+       title="inch-in-cm-universellar-rechner" 
+       style="width:100%; height:auto; display:block; margin:0 auto;">
+</a>
 - Bildschirmgrößen von Fernsehern oder Monitoren messen  
 - Kleidung und Schuhe international vergleichen  
 - Möbelplanung und Innenarchitektur  
 
 ---
+<h2>Inch in cm Tabelle</h2>
 
+| Inch | cm    | Inch | cm    | Inch | cm    |
+|------|-------|------|-------|------|-------|
+| 1    | 2.54  | 2    | 5.08  | 3    | 7.62  |
+| 4    | 10.16 | 5    | 12.7  | 6    | 15.24 |
+| 7    | 17.78 | 8    | 20.32 | 9    | 22.86 |
+| 10   | 25.4  | 11   | 27.94 | 12   | 30.48 |
 Starten Sie jetzt und nutzen Sie den **Inch-in-cm Rechner**:
 
 [➡️ Zum Inch-in-cm Rechner](https://www.inch-in-cm-umrechner.de)
