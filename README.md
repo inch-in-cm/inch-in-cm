@@ -13,12 +13,6 @@ Willkommen! Dies ist der **Inch-in-cm Rechner**, ein kostenloses Online-Tool, mi
 ## Warum Inch-in-cm wichtig ist
 
 Inch ist ein weit verbreitetes Maßsystem in vielen Ländern, während Zentimeter Teil des metrischen Systems ist. Der **Inch-in-cm Converter** hilft Ihnen, die Umrechnung mühelos durchzuführen – z. B. beim Möbelkauf, bei Bildschirmgrößen oder bei internationalen Bekleidunggrößen.
-
-<a href="https://inch-in-cm-umrechner.de/" target="_blank">
-  <img src="https://github.com/inch-in-cm/inch-in-cm/raw/main/inch-in-cm-umrechner.de%20(4).png" 
-       alt="Zoll in cm " 
-       style="max-width:80%; height:auto;" />
-</a>
 ---
 <a href="https://inch-in-cm-umrechner.de/" target="_blank">
   <img src="jetz-inch-in-cm-umrechnen.png" 
@@ -69,5 +63,10 @@ Inch ist ein weit verbreitetes Maßsystem in vielen Ländern, während Zentimete
 | 7    | 17.78 | 8    | 20.32 | 9    | 22.86 |
 | 10   | 25.4  | 11   | 27.94 | 12   | 30.48 |
 Starten Sie jetzt und nutzen Sie den **Inch-in-cm Rechner**:
-
+---
+<a href="https://inch-in-cm-umrechner.de/" target="_blank">
+  <img src="https://github.com/inch-in-cm/inch-in-cm/raw/main/inch-in-cm-umrechner.de%20(4).png" 
+       alt="Zoll in cm " 
+       style="max-width:80%; height:auto;" />
+</a>
 [➡️ Zum Inch-in-cm Rechner](https://www.inch-in-cm-umrechner.de)
