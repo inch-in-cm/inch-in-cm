@@ -15,14 +15,12 @@ Willkommen! Dies ist der **Inch-in-cm Rechner**, ein kostenloses Online-Tool, mi
 Inch ist ein weit verbreitetes Maßsystem in vielen Ländern, während Zentimeter Teil des metrischen Systems ist. Der **Inch-in-cm Converter** hilft Ihnen, die Umrechnung mühelos durchzuführen – z. B. beim Möbelkauf, bei Bildschirmgrößen oder bei internationalen Bekleidunggrößen.
 
 ---
-<p align="center">
-  <a href="https://inch-in-cm-umrechner.de/" target="_blank">
-    <img src="inch-in-cm.png"
-         alt="Inch in CM Umrechner"
-         width="600"
-         style="border:10px solid black; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
-  </a>
-</p>
+<a href="https://inch-in-cm-umrechner.de/" target="_blank">
+  <img src="jetz-inch-in-cm-umrechnen.png" 
+       alt="jetzt-inch-in-cm-umrechnen" 
+       title="jetzt-inch-in-cm-umrechnen" 
+       style="width:100%; height:auto; display:block; margin:0 auto;">
+</a>
 
 ## Funktionen des Inch-in-cm Umrechner
 
@@ -38,7 +36,14 @@ Inch ist ein weit verbreitetes Maßsystem in vielen Ländern, während Zentimete
 1 Inch entspricht 2,54 cm. Geben Sie einfach den Wert in Inch ein, und der **Inch-in-cm Umrechner** liefert sofort das Ergebnis in Zentimeter. Für die Umrechnung in die andere Richtung teilen Sie cm durch 2,54.
 
 ---
-
+<p align="center">
+  <a href="https://inch-in-cm-umrechner.de/" target="_blank">
+    <img src="inch-in-cm.png"
+         alt="Inch in CM Umrechner"
+         width="600"
+         style="border:10px solid black; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
+  </a>
+</p>
 ## Anwendungsbeispiele
 
 - Bildschirmgrößen von Fernsehern oder Monitoren messen  
