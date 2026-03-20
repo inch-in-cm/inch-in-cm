@@ -69,4 +69,5 @@ Starten Sie jetzt und nutzen Sie den **Inch-in-cm Rechner**:
        alt="Zoll in cm " 
        style="max-width:80%; height:auto;" />
 </a>
-[➡️ Zum Inch-in-cm Rechner](https://www.inch-in-cm-umrechner.de)
+---
+[➡️ Zum Inch-in-cm Umrechner](https://inch-in-cm-umrechner.de)
