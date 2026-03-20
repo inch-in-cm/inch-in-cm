@@ -4,7 +4,7 @@ Willkommen! Dies ist der **Inch-in-cm Rechner**, ein kostenloses Online-Tool, mi
 
 [➡️ Zum Inch-in-cm Umrechner](https://inch-in-cm-umrechner.de)
 <a href="https://inch-in-cm-umrechner.de/" target="_blank">
-  <img src="https://github.com/inch-in-cm/inch-in-cm/raw/main/inch-in-cm-umrechner.de%20(4).png" 
+  <img src="https://github.com/inch-in-cm/inch-in-cm/raw/main/inch-in-cm-umrechner.de%20.png" 
        alt="Inch in cm Umrechner" 
        style="max-width:80%; height:auto;" />
 </a>
@@ -14,6 +14,11 @@ Willkommen! Dies ist der **Inch-in-cm Rechner**, ein kostenloses Online-Tool, mi
 
 Inch ist ein weit verbreitetes Maßsystem in vielen Ländern, während Zentimeter Teil des metrischen Systems ist. Der **Inch-in-cm Converter** hilft Ihnen, die Umrechnung mühelos durchzuführen – z. B. beim Möbelkauf, bei Bildschirmgrößen oder bei internationalen Bekleidunggrößen.
 
+<a href="https://inch-in-cm-umrechner.de/" target="_blank">
+  <img src="https://github.com/inch-in-cm/inch-in-cm/raw/main/inch-in-cm-umrechner.de%20(4).png" 
+       alt="Zoll in cm " 
+       style="max-width:80%; height:auto;" />
+</a>
 ---
 <a href="https://inch-in-cm-umrechner.de/" target="_blank">
   <img src="jetz-inch-in-cm-umrechnen.png" 
