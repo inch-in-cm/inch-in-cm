@@ -1,8 +1,8 @@
-# Inch-in-cm Converter – Kostenlos & Schnell
+# Inch-in-cm Umrechner – Kostenlos & Schnell
 
-Willkommen! Dies ist der **Inch-in-cm Converter**, ein kostenloses Online-Tool, mit dem Sie **Inch (Zoll) in Zentimeter (cm) schnell und präzise umrechnen** können. Zusätzlich unterstützt das Tool auch andere Maßeinheiten wie Volumen, Gewicht, Fläche und Temperatur. Ideal für den Alltag, Schule oder Beruf.
+Willkommen! Dies ist der **Inch-in-cm Rechner**, ein kostenloses Online-Tool, mit dem Sie **Inch (Zoll) in Zentimeter (cm) schnell und präzise umrechnen** können. Zusätzlich unterstützt das Tool auch andere Maßeinheiten wie Volumen, Gewicht, Fläche und Temperatur. Ideal für den Alltag, Schule oder Beruf.
 
-[➡️ Zum Inch-in-cm Converter](https://inch-in-cm-umrechner.de)
+[➡️ Zum Inch-in-cm Umrechner](https://inch-in-cm-umrechner.de)
 <a href="https://inch-in-cm-umrechner.de/" target="_blank">
   <img src="https://github.com/inch-in-cm/inch-in-cm/raw/main/inch-in-cm-umrechner.de%20(2).png" 
        alt="Inch in cm Umrechner" 
@@ -16,7 +16,7 @@ Inch ist ein weit verbreitetes Maßsystem in vielen Ländern, während Zentimete
 
 ---
 <img src="https://github.com/inch-in-cm/inch-in-cm/raw/main/inch%20in%20cm.png" alt="Inch in cm" />
-## Funktionen des Inch-in-cm Converters
+## Funktionen des Inch-in-cm Umrechner
 
 - Schnelle Umrechnung von **Inch in cm**
 - Unterstützung für ganze Zahlen, Brüche und gemischte Zahlen (z. B. 5 6/7 Zoll)
@@ -25,9 +25,9 @@ Inch ist ein weit verbreitetes Maßsystem in vielen Ländern, während Zentimete
 
 ---
 
-## So funktioniert der Inch-in-cm Converter
+## So funktioniert der Inch-in-cm Umrechner
 
-1 Inch entspricht 2,54 cm. Geben Sie einfach den Wert in Inch ein, und der **Inch-in-cm Converter** liefert sofort das Ergebnis in Zentimeter. Für die Umrechnung in die andere Richtung teilen Sie cm durch 2,54.
+1 Inch entspricht 2,54 cm. Geben Sie einfach den Wert in Inch ein, und der **Inch-in-cm Umrechner** liefert sofort das Ergebnis in Zentimeter. Für die Umrechnung in die andere Richtung teilen Sie cm durch 2,54.
 
 ---
 
@@ -39,6 +39,6 @@ Inch ist ein weit verbreitetes Maßsystem in vielen Ländern, während Zentimete
 
 ---
 
-Starten Sie jetzt und nutzen Sie den **Inch-in-cm Converter**:
+Starten Sie jetzt und nutzen Sie den **Inch-in-cm Rechner**:
 
-[➡️ Zum Inch-in-cm Converter](https://www.inch-in-cm-umrechner.de)
+[➡️ Zum Inch-in-cm Rechner](https://www.inch-in-cm-umrechner.de)
