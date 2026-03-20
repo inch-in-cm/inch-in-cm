@@ -6,7 +6,7 @@ Willkommen! Dies ist der **Inch-in-cm Rechner**, ein kostenloses Online-Tool, mi
 <a href="https://inch-in-cm-umrechner.de/" target="_blank">
   <img src="https://github.com/inch-in-cm/inch-in-cm/raw/main/inch-in-cm-umrechner.de%20(2).png" 
        alt="Inch in cm Umrechner" 
-       style="max-width:100%; height:auto;" />
+       style="max-width:80%; height:auto;" />
 </a>
 ---
 
