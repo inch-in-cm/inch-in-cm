@@ -4,7 +4,7 @@ Willkommen! Dies ist der **Inch-in-cm Rechner**, ein kostenloses Online-Tool, mi
 
 [➡️ Zum Inch-in-cm Umrechner](https://inch-in-cm-umrechner.de)
 <a href="https://inch-in-cm-umrechner.de/" target="_blank">
-  <img src="https://github.com/inch-in-cm/inch-in-cm/raw/main/inch-in-cm-umrechner.de.png" 
+  <img src="https://github.com/inch-in-cm/inch-in-cm/raw/main/inch-in-cm.png" 
        alt="Inch in cm Umrechner" 
        style="max-width:80%; height:auto;" />
 </a>
@@ -53,7 +53,11 @@ Inch ist ein weit verbreitetes Maßsystem in vielen Ländern, während Zentimete
 <p>
   Alles mit nur einem Klick! Besuchen Sie unsere Website, indem Sie auf eines der obigen Bilder klicken.
 </p>
-
+<a href="https://inch-in-cm-umrechner.de/" target="_blank">
+  <img src="https://github.com/inch-in-cm/inch-in-cm/raw/main/inch-in-cm-umrechner.de.png" 
+       alt="Inch in cm Umrechner" 
+       style="max-width:80%; height:auto;" />
+</a>
 ---
 <h2>Inch in cm Tabelle</h2>
 
