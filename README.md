@@ -30,7 +30,7 @@ Inch ist ein weit verbreitetes Maßsystem in vielen Ländern, während Zentimete
 - Einfach zu bedienen und präzise Ergebnisse in Sekunden
 
 ---
-<a href="https://inch-in-cm-umrechner.de/" target="_blank"><img src="https://github.com/inch-in-cm/inch-in-cm/raw/main/inch%20in%20cm.png" alt="Inch in cm" /></a>
+<a href="https://inch-in-cm-umrechner.de/" target="_blank"><img src="https://github.com/inch-in-cm/inch-in-cm/raw/main/inch%20in%20cm%201.png" alt="Inch in cm" /></a>
 ## So funktioniert der Inch-in-cm Umrechner
 
 1 Inch entspricht 2,54 cm. Geben Sie einfach den Wert in Inch ein, und der **Inch-in-cm Umrechner** liefert sofort das Ergebnis in Zentimeter. Für die Umrechnung in die andere Richtung teilen Sie cm durch 2,54.
